@@ -1,0 +1,14 @@
+{
+  "name": "sindhupulluruntt-ztest_rep",
+  "version": "1.0.0",
+  "description": "SindhuPulluruNTT-ZTEST_REP",
+  "repositoryLayout": {
+    "formatVersion": 5,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false"
+  }
+}
